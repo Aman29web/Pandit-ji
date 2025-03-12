@@ -30,7 +30,7 @@ const AboutSection = () => {
           </p>
         </div>
 
-        {/* Right Side - Image */}
+        {/* Right Side - Images */}
         <div className="md:w-1/2 flex justify-center mt-8 md:mt-0">
           <img
             src="/pics/35.jpg"
